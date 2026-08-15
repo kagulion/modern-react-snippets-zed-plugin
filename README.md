@@ -1,4 +1,4 @@
-# Modern React Snippets Zed
+# Modern React Snippets for Zed
 
 Essential, modern React snippets for the [Zed](https://zed.dev) code editor. Includes comprehensive snippets for **React**, **React Native**, **Redux Toolkit**, **React Hooks**, **TypeScript**, **PropTypes**, **Jest Testing**, and modern **JavaScript / TS utilities**.
 
@@ -7,7 +7,7 @@ Essential, modern React snippets for the [Zed](https://zed.dev) code editor. Inc
 ### Via Zed Extensions
 1. Open the Command Palette in Zed (`Ctrl+Shift+P` on Windows/Linux or `Cmd+Shift+P` on macOS).
 2. Type **`zed: extensions`** and press <kbd>Enter</kbd>.
-3. Search for **"Modern React Snippets Zed"** and click **Install**.
+3. Search for **"Modern React Snippets"** and click **Install**.
 
 ### Manual / Local Dev Extension
 1. Clone or download this repository:
