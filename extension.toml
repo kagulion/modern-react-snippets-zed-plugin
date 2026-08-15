@@ -1,0 +1,13 @@
+id = "modern-react-snippets"
+name = "Modern React Snippets"
+version = "1.0.0"
+schema_version = 1
+authors = ["Anurag Kanwar <anuragkanwar76@gmail.com>"]
+description = "Modern React, Redux, React Native, Hooks, and TypeScript snippets for Zed editor."
+repository = "https://github.com/anuragkanwar/modern-react-snippets-plugin"
+
+snippets = [
+  "./snippets/javascript.json",
+  "./snippets/typescript.json",
+  "./snippets/tsx.json"
+]
