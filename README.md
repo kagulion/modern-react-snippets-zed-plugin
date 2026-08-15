@@ -1,17 +1,13 @@
-# Modern React Snippets Zed
+# Modern React Snippets
 
 Essential, modern React snippets for the [Zed](https://zed.dev) code editor. Includes comprehensive snippets for **React**, **React Native**, **Redux Toolkit**, **React Hooks**, **TypeScript**, **PropTypes**, **Jest Testing**, and modern **JavaScript / TS utilities**.
 
-Created and maintained by **[KAGU](https://github.com/kagulion)**.
-
----
-
-## ⚡ Installation
+## Installation
 
 ### Via Zed Extensions
 1. Open the Command Palette in Zed (`Ctrl+Shift+P` on Windows/Linux or `Cmd+Shift+P` on macOS).
 2. Type **`zed: extensions`** and press <kbd>Enter</kbd>.
-3. Search for **"Modern React Snippets Zed"** and click **Install**.
+3. Search for **"Modern React Snippets"** and click **Install**.
 
 ### Manual / Local Dev Extension
 1. Clone or download this repository:
@@ -22,9 +18,7 @@ Created and maintained by **[KAGU](https://github.com/kagulion)**.
 3. Run **`zed: install dev extension`**.
 4. Select the root folder of this repository (`modern-react-snippets-zed-plugin`).
 
----
-
-## 🚀 Supported Languages
+## Supported Languages
 
 - **JavaScript / JSX** (`.js`, `.jsx`)
 - **TypeScript** (`.ts`)
@@ -32,9 +26,7 @@ Created and maintained by **[KAGU](https://github.com/kagulion)**.
 
 All snippets use native LSP tabstops (`$1`, `$2`, `$0`). When inserting component templates, typing the component name updates all occurrences (definition, JSX tags, and default export) simultaneously!
 
----
-
-## 📖 Snippets Reference
+## Snippets Reference
 
 ### ⚛️ React Components (JavaScript / JSX)
 
@@ -244,15 +236,11 @@ All snippets use native LSP tabstops (`$1`, `$2`, `$0`). When inserting componen
 | `cref` | Create Ref | `this.myRef = React.createRef();` |
 | `cmmb` | Comment Multi-line Block | Block JSDoc comment |
 
----
-
-## 🤝 Credits & Acknowledgements
+## Credits & Acknowledgements
 
 - Ported to Zed by **[KAGU](https://github.com/kagulion)**.
 - Based on the original WebStorm plugin [Modern React Snippets](https://github.com/anuragkanwar/modern-react-snippets-plugin) by [Anurag Kanwar](https://github.com/anuragkanwar).
 - Inspired by [ES7+ React/Redux/React-Native snippets](https://github.com/ults-io/vscode-react-javascript-snippets) by [dsznajder](https://github.com/dsznajder) / ULTS.
-
----
 
 ## 📄 License
 

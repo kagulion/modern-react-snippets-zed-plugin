@@ -1,7 +1,7 @@
 MIT License
 -----------
 
-Copyright (c) 2024 KAGU (https://github.com/kagulion)
+Copyright (c) 2026 KAGU (https://github.com/kagulion)
 Copyright (c) 2023 Anurag Kanwar (https://github.com/anuragkanwar/modern-react-snippets-plugin)
 
 Permission is hereby granted, free of charge, to any person
