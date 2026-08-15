@@ -1,10 +1,10 @@
-id = "modern-react-snippets"
-name = "Modern React Snippets"
+id = "modern-react-snippets-zed"
+name = "Modern React Snippets Zed"
 version = "1.0.0"
 schema_version = 1
-authors = ["Anurag Kanwar <anuragkanwar76@gmail.com>"]
+authors = ["KAGU <https://github.com/kagulion>"]
 description = "Modern React, Redux, React Native, Hooks, and TypeScript snippets for Zed editor."
-repository = "https://github.com/anuragkanwar/modern-react-snippets-plugin"
+repository = "https://github.com/kagulion/modern-react-snippets-zed-plugin"
 
 snippets = [
   "./snippets/javascript.json",

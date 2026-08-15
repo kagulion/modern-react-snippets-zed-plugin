@@ -1,6 +1,8 @@
-# Modern React Snippets for Zed
+# Modern React Snippets Zed
 
 Essential, modern React snippets for the [Zed](https://zed.dev) code editor. Includes comprehensive snippets for **React**, **React Native**, **Redux Toolkit**, **React Hooks**, **TypeScript**, **PropTypes**, **Jest Testing**, and modern **JavaScript / TS utilities**.
+
+Created and maintained by **[KAGU](https://github.com/kagulion)**.
 
 ---
 
@@ -9,10 +11,13 @@ Essential, modern React snippets for the [Zed](https://zed.dev) code editor. Inc
 ### Via Zed Extensions
 1. Open the Command Palette in Zed (`Ctrl+Shift+P` on Windows/Linux or `Cmd+Shift+P` on macOS).
 2. Type **`zed: extensions`** and press <kbd>Enter</kbd>.
-3. Search for **"Modern React Snippets"** and click **Install**.
+3. Search for **"Modern React Snippets Zed"** and click **Install**.
 
 ### Manual / Local Dev Extension
-1. Clone or download this repository.
+1. Clone or download this repository:
+   ```bash
+   git clone https://github.com/kagulion/modern-react-snippets-zed-plugin.git
+   ```
 2. Open Zed and open the Command Palette (`Ctrl+Shift+P` / `Cmd+Shift+P`).
 3. Run **`zed: install dev extension`**.
 4. Select the root folder of this repository (`modern-react-snippets-zed-plugin`).
@@ -241,6 +246,14 @@ All snippets use native LSP tabstops (`$1`, `$2`, `$0`). When inserting componen
 
 ---
 
+## 🤝 Credits & Acknowledgements
+
+- Ported to Zed by **[KAGU](https://github.com/kagulion)**.
+- Based on the original WebStorm plugin [Modern React Snippets](https://github.com/anuragkanwar/modern-react-snippets-plugin) by [Anurag Kanwar](https://github.com/anuragkanwar).
+- Inspired by [ES7+ React/Redux/React-Native snippets](https://github.com/ults-io/vscode-react-javascript-snippets) by [dsznajder](https://github.com/dsznajder) / ULTS.
+
+---
+
 ## 📄 License
 
-[MIT](LICENSE.md) © [Anurag Kanwar](https://github.com/anuragkanwar)
+This project is licensed under the [MIT License](LICENSE.md) — see the [LICENSE.md](LICENSE.md) file for details.
